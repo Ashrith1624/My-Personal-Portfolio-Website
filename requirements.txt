@@ -1,0 +1,24 @@
+# This requirements.txt is for documentation only.
+# These are npm (JavaScript/TypeScript) dependencies, not Python packages.
+# To install, use npm or yarn with package.json.
+
+# Production dependencies
+lucide-react
+react
+react-dom
+
+# Development dependencies
+@eslint/js
+@types/react
+@types/react-dom
+@vitejs/plugin-react
+autoprefixer
+eslint
+eslint-plugin-react-hooks
+eslint-plugin-react-refresh
+globals
+postcss
+tailwindcss
+typescript
+typescript-eslint
+vite 
